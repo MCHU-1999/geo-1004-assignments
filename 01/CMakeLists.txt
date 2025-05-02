@@ -15,7 +15,7 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
 find_package(CGAL REQUIRED COMPONENTS Core)
 
 # Create executable
-add_executable(${PROJECT_NAME} hw1.cpp)
+add_executable(${PROJECT_NAME} main.cpp)
 
 # Link CGAL to your executable
 target_link_libraries(${PROJECT_NAME} CGAL::CGAL CGAL::CGAL_Core)
