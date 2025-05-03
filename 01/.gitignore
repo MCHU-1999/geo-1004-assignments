@@ -1,1 +1,9 @@
 screenshots/
+viz.3dm
+.DS_Store
+merged-LoD12_*.obj
+merged-LoD13_*.obj
+merged-LoD22_*.obj
+merged-LoD12_*.obj.mtl
+merged-LoD13_*.obj.mtl
+merged-LoD22_*.obj.mtl
