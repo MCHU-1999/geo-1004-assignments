@@ -1,3 +1,6 @@
 [submodule "02"]
 	path = 02
 	url = https://github.com/MCHU-1999/geo-1004-hw02.git
+[submodule "03"]
+	path = 03
+	url = https://github.com/MCHU-1999/geo-1004-hw03.git
